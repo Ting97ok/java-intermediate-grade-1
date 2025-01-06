@@ -121,3 +121,7 @@
 
 ### StringBuiler vs StringBuffer
 - 멀티 쓰레드 환경에서 안전하지만 느린 StringBuffer 불안전 하지만 빠른 StringBuilder
+
+## 메서드 체인닝 - Method Chaining
+- 메서드 반환 값을 인스턴스 자신의 참조값을 반환하여 연쇄적인 메서드 사용 하도록 하는 방식
+- 메서드 체이닝 기법은 코드를 간결하고 읽기 쉽게 만들어준다.
