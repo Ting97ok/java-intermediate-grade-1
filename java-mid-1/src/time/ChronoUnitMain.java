@@ -11,7 +11,7 @@ public class ChronoUnitMain {
         }
         System.out.println("HOURS: " + ChronoUnit.HOURS);
         System.out.println("HOURS.duration: " + ChronoUnit.HOURS.getDuration().getSeconds());
-        System.out.println("DAYS = " + ChronoUnit.DAYS);
+        System.out.println("DAYS: " + ChronoUnit.DAYS);
         System.out.println("DAYS.duration: " + ChronoUnit.DAYS.getDuration().getSeconds());
 
         // 차이 구하기
