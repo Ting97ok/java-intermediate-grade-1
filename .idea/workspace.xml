@@ -4,48 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="657697ab-1bbc-4db3-b457-6c473a7c39d8" name="Changes" comment="1챕터 - object and equals">
-      <change afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/read.md" afterDir="false" />
+    <list default="true" id="657697ab-1bbc-4db3-b457-6c473a7c39d8" name="Changes" comment="2챕터 - 불변객체">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/ImmutableAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/ImmutableAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/MemberMainV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/MemberMainV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/MemberMainV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/MemberMainV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/MemberV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/MemberV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/MemberV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/MemberV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/PrimitiveMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/PrimitiveMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/RefMain1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/RefMain1_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/RefMain1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/RefMain1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/RefMain1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/RefMain1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/address/RefMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/address/RefMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/change/ImmutableMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/change/ImmutableMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/change/ImmutableMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/change/ImmutableMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/change/ImmutableObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/change/ImmutableObj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/change/MutableMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/change/MutableMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/change/MutableObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/change/MutableObj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/test/ImmutableMyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/test/ImmutableMyDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/test/ImmutableMyDateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/test/ImmutableMyDateMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/test/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/test/MyDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/immutable/test/MyDateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch2-immutable/test/MyDateMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/ObjectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/ObjectMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/equals/EqualsMainV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/equals/EqualsMainV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/equals/EqualsMainV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/equals/EqualsMainV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/equals/UserV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/equals/UserV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/equals/UserV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/equals/UserV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/poly/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/poly/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/poly/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/poly/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/poly/ObjectPolyExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/poly/ObjectPolyExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/poly/ObjectPolyExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/poly/ObjectPolyExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/test/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/test/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/test/RectangleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/test/RectangleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/tostring/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/tostring/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/tostring/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/tostring/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/tostring/ObjectPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/tostring/ObjectPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/tostring/ToStringMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/tostring/ToStringMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/tostring/ToStringMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/tostring/ToStringMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lang/object/tostring/read.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lang/ch1-object/read.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,21 +20,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kswdev0"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kswdev0&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ting97ok/java-intermediate-grade-1.git",
-    "accountId": "caebc3ef-9d4f-48c7-be13-65f4682a9b71"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ting97ok/java-intermediate-grade-1.git&quot;,
+    &quot;accountId&quot;: &quot;caebc3ef-9d4f-48c7-be13-65f4682a9b71&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2rIyYwInLps1wMZw9P6yUzJeu0g" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -85,7 +45,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "KIM-SANG-WOO",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/practice/java-intermediate-grade-1",
+    "last_opened_file_path": "D:/practice/java-intermediate-grade-1/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,6 +58,19 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\practice\java-intermediate-grade-1\java\src\lang\object" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java-intermediate-grade-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java-intermediate-grade-1" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -115,7 +88,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736260934932</updated>
-      <workItem from="1736260937275" duration="5324000" />
+      <workItem from="1736260937275" duration="5348000" />
+      <workItem from="1736315465769" duration="1223000" />
+      <workItem from="1736323181245" duration="2065000" />
+      <workItem from="1737041360615" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="자료 다운">
       <option name="closed" value="true" />
@@ -133,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736264348853</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2챕터 - 불변객체">
+      <option name="closed" value="true" />
+      <created>1736266272131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736266272131</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +149,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="자료 다운" />
     <MESSAGE value="1챕터 - object and equals" />
-    <option name="LAST_COMMIT_MESSAGE" value="1챕터 - object and equals" />
+    <MESSAGE value="2챕터 - 불변객체" />
+    <option name="LAST_COMMIT_MESSAGE" value="2챕터 - 불변객체" />
   </component>
 </project>
